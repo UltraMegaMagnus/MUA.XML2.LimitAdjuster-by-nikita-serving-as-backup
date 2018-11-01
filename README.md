@@ -1,6 +1,8 @@
 MUA/XML2 Limit Adjuster
 ==============================
 
+**Original work: https://github.com/ThirteenAG/III.VC.SA.LimitAdjuster**
+
 This is a open source limit adjuster for Marvel Ultimate Alliance and X-Men Legends 2 aiming to bring back limit adjusters to the scene.
 
 However it does not aim to be just a limit ***adjuster***, but a limit ***purger***, that's, turning whatever previously was limited into unlimited, being only limited by the machine/application capacity.
